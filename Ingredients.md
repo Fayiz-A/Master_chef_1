@@ -4,7 +4,7 @@ You will be needing the following ingredients for making an ommelete:
 * A pinch of salt
 * Onion
 * Green chilly
-For more information, [click here](https://code.whitehatjr.com/s/dashboard)
+This is how the ommelete looks like when complete, ![click here](Ommelete.png)
 
 Ingredient | Quantity
 -----------|----------

@@ -16,3 +16,4 @@ Green chilly | 1
 1. Mix all the contents
   - In a bowl, put sliced pieces of onions and chillies.
   - Put the broken eggs into it.
+>> Quote

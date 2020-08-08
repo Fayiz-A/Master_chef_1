@@ -8,10 +8,14 @@ You will be needing the following ingredients for making an ommelete:
 Ingredient | Quantity
 -----------|----------
 Egg | 3
-Onion | 0.5
-Green chilly | 1
+Butter | 3 teaspoon
+Salt | 1/3 teaspoon
+Vegetables for filling | According to your taste
 
-This is how the ommelete looks like when complete: 
+**_This is how the ommelete will look like when complete:_**
+
+
+
 ![Ommelete picture](Ommelete.png)
 
-For the recipe, go to [recipe.md](https://github.com/Fayiz-A/Master_chef_1/blob/master/Recipe.md)
+**For the recipe, go to** [recipe.md](https://github.com/Fayiz-A/Master_chef_1/blob/master/Recipe.md)

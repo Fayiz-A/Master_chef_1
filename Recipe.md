@@ -1,7 +1,7 @@
 ## Recipe for making the ommelete
 
-1. Beat 3 eggs into a bowl
-2. Melt some butter on a **non-stick pan** on **low flame** to make the ommelete come out from the pan without difficulty after cooking
+1. Beat 3 eggs into a bowl.
+2. Melt some butter on a **non-stick pan** on **low flame** to make the ommelete come out from the pan without difficulty after cooking.
 3. Mix the eggs in the bowl with fillings you want inside the ommelete. The fillings can be a mixture of:
   - Onions
   - Chillies

@@ -5,3 +5,5 @@ This repository contains files containing the recipe for making an ommeleteðŸ˜‹ð
 For ingredients: [Ingredients.md](https://github.com/Fayiz-A/Master_chef_1/blob/master/Ingredients.md)
 For recipe: [Recipe.md](https://github.com/Fayiz-A/Master_chef_1/blob/master/Recipe.md)
 
+:smile:
+:wink:

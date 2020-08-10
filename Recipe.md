@@ -12,5 +12,5 @@
 4. Add a **pinch of salt** to the mixture.
 5. Put this mixture into the pan and let it cook from one side for **1-1.5 minutes**.
 6. After the first side is cooked well, turn over the ommelete and cook it for approximately **1 minute**.
-7. After that side has also been cooked, put the ommelete into a plate and serve. **_Your ommelete is ready_**😋😋!
+7. After that side has also been cooked, put the ommelete into a plate and serve. **Your ommelete is ready**😋😋!
 
